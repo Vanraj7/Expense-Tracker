@@ -13,11 +13,10 @@
 **A beautifully crafted personal finance tracker built with React + Vite.**
 Track expenses, set budgets, visualize spending patterns, and manage savings goals — all in one elegant dashboard.
 
-[🚀 Live Demo](#) · [🐛 Report Bug](../../issues) · [✨ Request Feature](../../issues)
-
 <br/>
 
-![Vault Screenshot](https://via.placeholder.com/900x500/080c1a/c9a84c?text=Vault+—+Personal+Finance+Tracker)
+<img width="1909" height="946" alt="image" src="https://github.com/user-attachments/assets/020e5c92-bb06-4230-adb2-e17342e7ae2c" />
+
 
 </div>
 
@@ -274,11 +273,11 @@ See [`LICENSE`](./LICENSE) for full details.
 
 ## 👤 Author
 
-**Your Name**
+**Vanraj Jhala**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vanraj7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanraj-jhala)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.vanrajjhala.in/)
 
 ---
 
@@ -286,8 +285,4 @@ See [`LICENSE`](./LICENSE) for full details.
 
 **⭐ If you found this project helpful, please give it a star — it really helps!**
 
-<br/>
 
-Made with ❤️ and React
-
-</div>
